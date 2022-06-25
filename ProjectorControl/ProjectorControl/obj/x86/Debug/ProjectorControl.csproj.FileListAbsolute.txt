@@ -1,0 +1,12 @@
+C:\ProjectorControl-master\ProjectorControl-master\ProjectorControl\ProjectorControl\obj\x86\Debug\ProjectorControl.csproj.AssemblyReference.cache
+C:\ProjectorControl-master\ProjectorControl-master\ProjectorControl\ProjectorControl\bin\Debug\ProjectorControl.exe
+C:\ProjectorControl-master\ProjectorControl-master\ProjectorControl\ProjectorControl\bin\Debug\ProjectorControl.pdb
+C:\ProjectorControl-master\ProjectorControl-master\ProjectorControl\ProjectorControl\bin\Debug\PJLink.dll
+C:\ProjectorControl-master\ProjectorControl-master\ProjectorControl\ProjectorControl\bin\Debug\PJLink.pdb
+C:\ProjectorControl-master\ProjectorControl-master\ProjectorControl\ProjectorControl\obj\x86\Debug\ProjectorControl.Form1.resources
+C:\ProjectorControl-master\ProjectorControl-master\ProjectorControl\ProjectorControl\obj\x86\Debug\ProjectorControl.Properties.Resources.resources
+C:\ProjectorControl-master\ProjectorControl-master\ProjectorControl\ProjectorControl\obj\x86\Debug\ProjectorControl.csproj.GenerateResource.cache
+C:\ProjectorControl-master\ProjectorControl-master\ProjectorControl\ProjectorControl\obj\x86\Debug\ProjectorControl.csproj.CoreCompileInputs.cache
+C:\ProjectorControl-master\ProjectorControl-master\ProjectorControl\ProjectorControl\obj\x86\Debug\ProjectorControl.csproj.CopyComplete
+C:\ProjectorControl-master\ProjectorControl-master\ProjectorControl\ProjectorControl\obj\x86\Debug\ProjectorControl.exe
+C:\ProjectorControl-master\ProjectorControl-master\ProjectorControl\ProjectorControl\obj\x86\Debug\ProjectorControl.pdb
